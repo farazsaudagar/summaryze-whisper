@@ -1,0 +1,13 @@
+{
+    "name": "Summaryze",
+    "version": "1.0.0",
+    "description": "This is an extension to help you summarize YouTube videos, right in your browser",
+    "manifest_version": 3,
+    "author": "Faraz Saudagar",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
